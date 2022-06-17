@@ -1,5 +1,4 @@
-# Demo 
+# Demo
 
 - Aprendendo GitHub
-- 
-- Mais uma linha 
+- Adicionando uma linha
